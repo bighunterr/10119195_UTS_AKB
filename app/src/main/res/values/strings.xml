@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Janug MyselfAPP</string>
+    <string name="perkenalan">Nama saya Fajar Nugraha saya memiliki interest seperti dibawah ini, siapa tau ada yang sama kaya kamuu</string>
+    <string name="desc">Nim 10119195. Berkuliah di Universitas Komputer Indonesia jurusan Teknik Informatika kelas IF5</string>
+    <string name="nama">Fajar Nugraha</string>
+    <string name="hobby">Hobby</string>
+    <string name="myhobby">: Hiking</string>
+    <string name="interest">Interest</string>
+    <string name="myinterest">: Car Enthusiast</string>
+    <string name="cita2">Cita-cita</string>
+    <string name="mycita2">: Pengusaha</string>
+    <string name="alamat">Alamat</string>
+    <string name="myalamat">: Jl.Cipeunduey-cipicung,Kp.Margaluyu, RT.02/10 Ds.Cipeundeuy, Kec.Cipeundeuy, Kab. Bandung Barat</string>
+    <string name="makes">Makes</string>
+    <string name="mymakes">: Fried Chicken</string>
+    <string name="mikes">Mikes</string>
+    <string name="mymikes">: Orange Juice</string>
+    <string name="jujutsu">Jujutsu Kaisen</string>
+    <string name="fav">Musik dan Video Favorit</string>
+
+</resources>
